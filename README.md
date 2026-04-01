@@ -3,7 +3,7 @@ Deep Learning-Based Weather Forecasting: A Comparative Study of ARIMA, Random Fo
 
 
 
-PROPOSED WORK:
+**PROPOSED WORK**:
 The aim of this project is to develop a weather forecasting system that compares different forecasting approaches using historical weather data.
 The main objectives of the project are:
 •	To collect and preprocess historical weather data from publicly available datasets.
